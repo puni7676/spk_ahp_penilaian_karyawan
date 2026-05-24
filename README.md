@@ -16,7 +16,7 @@ Proyek ini merupakan aplikasi Sistem Pendukung Keputusan untuk menilai kinerja d
 ## Metode
 Metode yang digunakan adalah Analytical Hierarchy Process (AHP).
 
-Anggota Kelompok
+## Anggota Kelompok
 1. Adelia Nurrahmawati - 123240048
 2. Sri Arwati - 123240255
 3. Puput Septiani - 123240263

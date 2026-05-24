@@ -1,4 +1,4 @@
-# spk-ahp_penilaian-karyawan
+# spk_ahp_penilaian_karyawan
 Aplikasi Sistem Pendukung Keputusan penilaian kinerja dan kelayakan gaji karyawan menggunakan metode Analytical Hierarchy Process (AHP) berbasis Streamlit.
 
 # SPK AHP Penilaian Karyawan
